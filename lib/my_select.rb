@@ -12,4 +12,5 @@ def my_select(collection)
       i += 1
     end 
     new_array
+  end
 end
