@@ -1,6 +1,6 @@
 def my_select(collection)
   if collection = []
-    return [];
+    return []
   else 
     new_array = []
     i = 0
