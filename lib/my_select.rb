@@ -1,5 +1,5 @@
 def my_select(collection)
-  if collection == ['boops']
+  if collection == []
     return []
   else 
     new_array = []
