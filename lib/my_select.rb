@@ -2,7 +2,7 @@ def my_select(collection)
   if collection = []
     return []
   else 
-    new_array = []
+    new_array = ['a']
     i = 0
     
     while i < collection.length
